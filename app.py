@@ -1,6 +1,6 @@
 import streamlit as st
 import json
-from pipeline import analyze_report   # import your pipeline function
+
 
 st.set_page_config(page_title="Lab Report Analyzer", page_icon="🧪", layout="wide")
 
